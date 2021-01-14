@@ -10,7 +10,4 @@ Laget med oppskrift fra [Grails dokumentasjonen](https://docs.grails.org/3.3.8/g
 - cd myapp
 - grails run-app
 
-Det fungerer.
-
-Så legger jeg til PluginService i myplugin og AppController i myapp.
-Jeg klarer ikke få tak i PluginService fra AppController.
+Legger så til PluginService i myplugin og AppController i myapp.
